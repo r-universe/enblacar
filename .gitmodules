@@ -8,3 +8,23 @@
 	url = https://github.com/enblacar/scpubr
 	shallow = true
 	registered = true
+[submodule "CellChat"]
+	path = CellChat
+	url = https://github.com/sqjin/CellChat
+	shallow = true
+	registered = false
+[submodule "OmnipathR"]
+	path = OmnipathR
+	url = https://github.com/saezlab/OmnipathR
+	shallow = true
+	registered = false
+[submodule "ggsankey"]
+	path = ggsankey
+	url = https://github.com/davidsjoberg/ggsankey
+	shallow = true
+	registered = false
+[submodule "liana"]
+	path = liana
+	url = https://github.com/saezlab/liana
+	shallow = true
+	registered = false
