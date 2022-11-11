@@ -12,6 +12,24 @@
     "from": "SCpubr"
   },
   {
+    "package": "basilisk",
+    "url": "https://github.com/LTLA/basilisk",
+    "via": ["SCpubr", "liana"],
+    "from": "SCpubr"
+  },
+  {
+    "package": "basilisk.utils",
+    "url": "https://github.com/LTLA/basilisk.utils",
+    "via": ["SCpubr", "liana"],
+    "from": "SCpubr"
+  },
+  {
+    "package": "decoupleR",
+    "url": "https://github.com/saezlab/decoupleR",
+    "via": ["SCpubr", "liana"],
+    "from": "SCpubr"
+  },
+  {
     "package": "ggsankey",
     "url": "https://github.com/davidsjoberg/ggsankey",
     "via": ["SCpubr"],

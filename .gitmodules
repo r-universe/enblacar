@@ -18,6 +18,21 @@
 	url = https://github.com/saezlab/OmnipathR
 	shallow = true
 	registered = false
+[submodule "basilisk"]
+	path = basilisk
+	url = https://github.com/LTLA/basilisk
+	shallow = true
+	registered = false
+[submodule "basilisk.utils"]
+	path = basilisk.utils
+	url = https://github.com/LTLA/basilisk.utils
+	shallow = true
+	registered = false
+[submodule "decoupleR"]
+	path = decoupleR
+	url = https://github.com/saezlab/decoupleR
+	shallow = true
+	registered = false
 [submodule "ggsankey"]
 	path = ggsankey
 	url = https://github.com/davidsjoberg/ggsankey
