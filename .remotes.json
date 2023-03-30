@@ -30,12 +30,6 @@
     "from": "SCpubr"
   },
   {
-    "package": "ggsankey",
-    "url": "https://github.com/davidsjoberg/ggsankey",
-    "via": ["SCpubr"],
-    "from": "SCpubr"
-  },
-  {
     "package": "liana",
     "url": "https://github.com/saezlab/liana",
     "via": ["SCpubr"],

@@ -33,11 +33,6 @@
 	url = https://github.com/saezlab/decoupleR
 	shallow = true
 	registered = false
-[submodule "ggsankey"]
-	path = ggsankey
-	url = https://github.com/davidsjoberg/ggsankey
-	shallow = true
-	registered = false
 [submodule "liana"]
 	path = liana
 	url = https://github.com/saezlab/liana
