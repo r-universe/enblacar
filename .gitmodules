@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "SCpubr"]
-	path = SCpubr
-	url = https://github.com/enblacar/scpubr
 [submodule "CellChat"]
 	path = CellChat
 	url = https://github.com/sqjin/CellChat
@@ -13,6 +10,9 @@
 	path = OmnipathR
 	url = https://github.com/saezlab/OmnipathR
 	registered = false
+[submodule "SCpubr"]
+	path = SCpubr
+	url = https://github.com/enblacar/scpubr
 [submodule "basilisk"]
 	path = basilisk
 	url = https://github.com/LTLA/basilisk
