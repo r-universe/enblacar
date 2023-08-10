@@ -2,6 +2,30 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CellChat"]
+	path = CellChat
+	url = https://github.com/sqjin/CellChat
+	registered = false
+[submodule "OmnipathR"]
+	path = OmnipathR
+	url = https://github.com/saezlab/OmnipathR
+	registered = false
 [submodule "SCpubr"]
 	path = SCpubr
 	url = https://github.com/enblacar/scpubr
+[submodule "basilisk"]
+	path = basilisk
+	url = https://github.com/LTLA/basilisk
+	registered = false
+[submodule "basilisk.utils"]
+	path = basilisk.utils
+	url = https://github.com/LTLA/basilisk.utils
+	registered = false
+[submodule "decoupleR"]
+	path = decoupleR
+	url = https://github.com/saezlab/decoupleR
+	registered = false
+[submodule "liana"]
+	path = liana
+	url = https://github.com/saezlab/liana
+	registered = false
